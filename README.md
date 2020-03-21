@@ -1,2 +1,2 @@
-# Tank_Problem_Solver
-Solves the Tank Problem
+# Tank Problem Solver
+GUI Program to solve the Tank Problem
